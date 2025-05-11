@@ -38,7 +38,7 @@
       "key":"chengren",
        "name":"1",
         "type":1,
-        "api":"http://www.51155.cc/api.php/provide/vod/from/clm3u8",
+        "api":"http://www.5115.cc/api.php/provide/vod/from/clm3u8",
         "searchable":1, 
         "quickSearch":1
      },
@@ -46,7 +46,7 @@
       "key": "1",
       "name": "1",
       "type": 1,
-      "api": "http://www.51155.cc/api.php/provide/vod/from/mdm3u8/",
+      "api": "http://www.5115.cc/api.php/provide/vod/from/mdm3u8/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -55,7 +55,7 @@
       "key":"1",
       "name":"1",
       "type":0,
-      "api":"http://www.51155.cc/api.php/provide/vod/from/m3u8",
+      "api":"http://www.5115.cc/api.php/provide/vod/from/m3u8",
       "searchable":0,
       "quickSearch":0
     },
@@ -63,24 +63,20 @@
       "key": "1",
       "name": "1",
       "type": 1,
-      "api": "http://www.51155.cc/api.php/provide/vod/from/m3u8",
+      "api": "http://www.5115.cc/api.php/provide/vod/from/m3u8",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
 
-     {"key": "5","name": "-----福利分割线-----","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
-     {"key": "6","name": "-----福利分割线-----","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
 
       {"key":"*大地资源","name":"🏆大地资源","type":0,"api":"https://dadiapi.com/api.php","searchable":0,"quickSearch":0},
 
-     {"key": "3","name": "-----福利分割线-----","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
-     {"key": "4","name": "-----福利分割线-----","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
      {
        "key":"*草榴源",
        "name":"草榴源",
        "type":0,
-       "api":"http://www.51155.cc/api.php/provide/vod/from/m3u8",
+       "api":"http://www.5115.cc/api.php/provide/vod/from/m3u8",
        "searchable":1,
        "quickSearch":1,
        "filterable":0
@@ -89,7 +85,7 @@
        "key":"chunmei",
        "name":"爱豆源",
        "type":1,
-       "api":"http://www.51155.cc/api.php/provide/vod/from/m3u8",
+       "api":"http://www.5115.cc/api.php/provide/vod/from/m3u8",
        "searchable":1,
        "quickSearch":1,
        "filterable":0
@@ -98,7 +94,7 @@
        "key":"甜蜜源",
        "name":"甜蜜源",
        "type":1,
-       "api":"http://www.51155.cc/api.php/provide/vod/from/m3u8",
+       "api":"http://www.5115.cc/api.php/provide/vod/from/m3u8",
        "searchable":1,
        "quickSearch":1,
        "filterable":0
@@ -110,7 +106,7 @@
      {"key":"*91麻豆","name":"91麻豆","type":0,"api":"http://www.51155.cc/api.php/provide/vod/from/m3u8","searchable":1,"quickSearch":1,"filterable":0},
      {"key":"*葡萄源","name":"葡萄源","type":0,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1,"filterable":0},
     {"key":"*雪豹源","name":"雪豹源","type":1,"api":"https://www.baidu.com/","searchable":0,"quickSearch":0},
-    {"key":"麻豆","name":"麻豆","type":1,"api":"http://www.51155.cc/api.php/provide/vod/from/m3u8","searchable":1,"quickSearch":1},
+    {"key":"麻豆","name":"麻豆","type":1,"api":"http://www.5115.cc/api.php/provide/vod/from/m3u8","searchable":1,"quickSearch":1},
     {"key":"丝袜源","name":"丝袜源","type":1,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1},
     {"key":"色逼","name":"色逼1","type":1,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1},
     {"key":"橘猫","name":"橘猫1","type":1,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1},
@@ -141,8 +137,8 @@
      {"key": "2","name": "-----福利分割线-----","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
 
      {"key": "探探资源","name": "🔞探探资源","type": 1,"api": "https://www.baidu.com/","searchable": 0,"quickSearch": 0},
-     {"key": "天美","name": "天美","type": 1,"api": "http://www.51155.cc/api.php/provide/vod/from/m3u8","searchable": 0,"quickSearch": 0},
-     {"key": "🔞麻豆","name": "🔞麻豆","type": 1,"api": "http://www.51155.cc/api.php/provide/vod/from/m3u8","searchable": 0,"quickSearch": 0},
+     {"key": "天美","name": "天美","type": 1,"api": "http://www.5115.cc/api.php/provide/vod/from/m3u8","searchable": 0,"quickSearch": 0},
+     {"key": "🔞麻豆","name": "🔞麻豆","type": 1,"api": "http://www.5115.cc/api.php/provide/vod/from/m3u8","searchable": 0,"quickSearch": 0},
      {"key":"*速度资源","name":"🔞速度资源","type":0,"api":"https://www.baidu.com/","searchable":0,"quickSearch":0},
      {"key": "花魁资源","name": "🔞花魁资源","type": 1,"api": "https://www.baidu.com/","searchable": 0,"quickSearch": 0},
      {"key":"*乐播资源","name":"🔞乐播资源","type":1,"api":"https://www.baidu.com/","searchable":0,"quickSearch":0},
@@ -150,8 +146,8 @@
      {"key": "鸡坤资源", "name": "🔞鸡坤资源", "type": 1, "api": "https://www.baidu.com/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
      {"key":"*鲨鱼资源","name":"🔞鲨鱼资源","type":1,"api":"https://www.baidu.com/","searchable":0,"quickSearch":0},
      {"key": "小草", "name": "🔞小草", "type": 1, "api": "https://www.baidu.com/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
-     {"key":"*91视频","name":"🔞91视频","type":1,"api":"http://www.51155.cc/api.php/provide/vod/from/m3u8","searchable":0,"quickSearch":0},
-     {"key":"*果","name":"🔞果","type":1,"api":"http://www.51155.cc/api.php/provide/vod/from/m3u8","searchable":0,"quickSearch":0},
+     {"key":"*91视频","name":"🔞91视频","type":1,"api":"http://www.5115.cc/api.php/provide/vod/from/m3u8","searchable":0,"quickSearch":0},
+     {"key":"*果","name":"🔞果","type":1,"api":"http://www.5115.cc/api.php/provide/vod/from/m3u8","searchable":0,"quickSearch":0},
      
      {"key": "15","name": "⇣⇣⇣⇣20230817⇣⇣⇣⇣","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
      {"key": "16","name": "⇣⇣⇣⇣20230817⇣⇣⇣⇣","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
